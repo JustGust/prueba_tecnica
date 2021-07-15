@@ -18,7 +18,7 @@
 <body style="padding: 20px; width: 80%;">
 
 <h1 class="mb-4 ">Listar empleados</h1>
-<a name="btnRegister" class="btn btn-primary mb-4 " href="index.php" >Registrar nueno empleado</a>
+<a name="btnRegister" class="btn btn-primary mb-4 " href="index.php" >Registrar nueno empleado </a>
 
 
 <?php if(isset($_SESSION['mensajeExito'] )){ ?>
